@@ -5,6 +5,10 @@ Final Project!
 
 research legal issues
 
+## Links
+
+1. Trello : https://trello.com/b/YhLeSyiS/final-project
+
 ## Researches
 
 1. Legal issue for downloading
