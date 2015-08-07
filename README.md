@@ -10,6 +10,10 @@ ReCoders
 
 Luke Lee, Hoshiko Oki, Ray Acevedo, Anna Li
 
+## Proposal
+
+[Proposal Submission](https://github.com/lukesterlee/AccessTube/blob/master/ProjectProposal.md)
+
 ## TODOs
 
 research legal issues
