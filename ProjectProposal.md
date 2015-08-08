@@ -16,9 +16,13 @@ Please create a repository for your final project, with the following contents:
 
 #### Please submit the final project proposal by 10:00pm on Sunday 8/9/2015. You will receive feedback on the proposal on Tuesday 8/11 and be asked to review and incorporate this feedback, and resubmit a revised proposal by 10:00pm on Tuesday 8/11.
 ---
+
 **Project Name**  AccessTube
+
 **Team Name**  ReCoders
+
 **Team Members**  Hoshiko Oki, Luke Lee, Ray Acevedo, Anna Li
+
 **Link to Group's Repo** https://github.com/lukesterlee/AccessTube
 
 ## The Problem 
