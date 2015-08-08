@@ -19,12 +19,12 @@
 ## The Problem 
 
 1. Inability to view streaming media while offline
-- users are unable to access streaming content on sites such as Netflix or Youtube when offline, or if the internet connection is too slow 
+ * users are unable to access streaming content on sites such as Netflix or Youtube when offline, or if the internet connection is too slow 
 
 
 2. Data redundancy cost issues
-- repeat viewings of same content count toward users' data plan
-- repeat viewings increase mobile traffic for content provider
+ * repeat viewings of same content count toward users' data plan
+ * repeat viewings increase mobile traffic for content provider
 
 
 
