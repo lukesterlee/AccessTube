@@ -38,7 +38,10 @@ Please provide a detailed description of the app here. Map out how the app solve
   *  
   
 
-Yes. AccessTube is technology designed to let individuals watch legal online content whenever and wherever they like. Just like the broadcast DVR and the VCR before it, PlayLater is designed for personal use and convenience.
+- record, not download
+- make sure users or other app can not access and take out content
+
+AccessTube is technology designed to let users watch legal streaming content whenever and wherever they like. Just like the broadcast DVR and the VCR before it, AccessTube is designed for personal use and convenience.
 
 ## Execution
 Please describe how you will build this app. Include: 
