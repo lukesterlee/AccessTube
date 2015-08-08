@@ -2,11 +2,9 @@
 
 ### The following is due Sun, Aug 9 at 10pm:  
 
-  
 Please create a repository for your final project, with the following contents:  
   *  README with your group members  
   *  ProjectProposal.md (template below. Feel free to use the markdown from this file and fill in your responses.) 
-  *  Folder that contains Weekly Retros (template [here](WeeklyRetroTemplate.md))  
 
 
 ---
@@ -25,9 +23,14 @@ Please create a repository for your final project, with the following contents:
 **Link to Group's Repo** https://github.com/lukesterlee/AccessTube
 
 ## The Problem 
-Describe the problem that your app will address. This does not need to be a novel idea or product, but your app should not directly recreate an existing product. If you are basing the app on an existing product, there should be some edge to your design or feature that solves a problem with that existing product. 
 
-Inability to view media while offline and excessive use of data when viewing media online.
+1. Inability to view streaming media while offline
+- users are unable to access streaming content on sites such as Netflix or Youtube when offline, or if the internet connection is too slow 
+
+
+2. Data redundancy cost issues
+- repeat viewings of same content count toward users' data plan
+- repeat viewings increase mobile traffic for content provider
 
 
 
