@@ -1,28 +1,32 @@
-# Final Project Proposal Submission  
+
 
 ### The following is due Sun, Aug 9 at 10pm:  
-*note: this deadline has been revised...An earlier version of this said it was due at 6pm.
-  
-Please create a repository for your final project, with the following contents:  
-  *  README with your group members  
-  *  ProjectProposal.md (template below. Feel free to use the markdown from this file and fill in your responses.) 
-  *  Folder that contains your app  
-  *  Folder that contains Weekly Retros (template [here](WeeklyRetroTemplate.md))  
 
-
----
 
 # Access Code 2.1 Final Project Proposal
 
 #### Please submit the final project proposal by 10:00pm on Sunday 8/9/2015. You will receive feedback on the proposal on Tuesday 8/11 and be asked to review and incorporate this feedback, and resubmit a revised proposal by 10:00pm on Tuesday 8/11.
 ---
-**Project Name**  
-**Team Name**  
-**Team Members**  
-**Link to Group's Repo**
+
+**Project Name**  AccessTube
+
+**Team Name**  ReCoders : We create new values from existing services such as Netflix or YouTube with coding
+
+**Team Members**  Hoshiko Oki, Luke Lee, Ray Acevedo, Anna Li
+
+**Link to Group's Repo** https://github.com/lukesterlee/AccessTube
 
 ## The Problem 
-Describe the problem that your app will address. This does not need to be a novel idea or product, but your app should not directly recreate an existing product. If you are basing the app on an existing product, there should be some edge to your design or feature that solves a problem with that existing product.   
+
+1. Inability to view streaming media while offline
+- users are unable to access streaming content on sites such as Netflix or Youtube when offline, or if the internet connection is too slow 
+
+
+2. Data redundancy cost issues
+- repeat viewings of same content count toward users' data plan
+- repeat viewings increase mobile traffic for content provider
+
+
 
 In this section, please frame the issue with supporting statistics about the need (market size, competitors, use cases). You should fully think through your user - who is your user? Why do they need this app? How are they using it?   
 
@@ -31,6 +35,10 @@ Please provide a detailed description of the app here. Map out how the app solve
   *  Baseline features you plan to implement by Demo 1 (what + why).
   *  Bonus features you plan to implement if baseline features are completed in time (what + why).
   *  A wireframe of the app. 
+  *  
+  
+
+Yes. AccessTube is technology designed to let individuals watch legal online content whenever and wherever they like. Just like the broadcast DVR and the VCR before it, PlayLater is designed for personal use and convenience.
 
 ## Execution
 Please describe how you will build this app. Include: 
