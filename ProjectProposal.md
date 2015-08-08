@@ -24,6 +24,8 @@ Please create a repository for your final project, with the following contents:
 ## The Problem 
 Describe the problem that your app will address. This does not need to be a novel idea or product, but your app should not directly recreate an existing product. If you are basing the app on an existing product, there should be some edge to your design or feature that solves a problem with that existing product. 
 
+Inability to view media while offline and excessive use of data when viewing media online.
+
 
 
 In this section, please frame the issue with supporting statistics about the need (market size, competitors, use cases). You should fully think through your user - who is your user? Why do they need this app? How are they using it?   
