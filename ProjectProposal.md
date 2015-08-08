@@ -10,7 +10,7 @@
 
 **Project Name**  AccessTube
 
-**Team Name**  ReCoders
+**Team Name**  ReCoders : We create new values from existing services such as Netflix or YouTube with coding
 
 **Team Members**  Hoshiko Oki, Luke Lee, Ray Acevedo, Anna Li
 
