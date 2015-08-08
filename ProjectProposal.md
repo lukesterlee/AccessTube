@@ -33,7 +33,11 @@ In this section, please frame the issue with supporting statistics about the nee
 ## The Solution 
 Please provide a detailed description of the app here. Map out how the app solves the problem described in section I. You should also include:
   *  Baseline features you plan to implement by Demo 1 (what + why).
+  *  record, 
   *  Bonus features you plan to implement if baseline features are completed in time (what + why).
+  *  language support, interface color options, , basket(sort, filter, search interface)
+  
+
   *  A wireframe of the app. 
   *  
   
@@ -45,7 +49,8 @@ AccessTube is technology designed to let users watch legal streaming content whe
 
 ## Execution
 Please describe how you will build this app. Include: 
-  *  A detailed timeline for building the product, broken out by weekly sprints. Implement the training from the [Project Management workshop](https://github.com/accesscode-2-1/unit-3/blob/master/lessons/16_ProjectManagement.md) to plan your sprints and outline which features you want to build out over the next 4 weeks. Think about the user stories you would frame your sprints around. *Projects should be planned to complete the build by Demo 1 on September 1, 2015.*  
+  *  A detailed timeline for building the product, broken out by weekly sprints. Implement the training from the
+  *  to plan your sprints and outline which features you want to build out over the next 4 weeks. Think about the user stories you would frame your sprints around. *Projects should be planned to complete the build by Demo 1 on September 1, 2015.*  
   *  A breakdown of team member responsibilities. Team members should take ownership over a specific feature or aspect of the app.   
 
 
