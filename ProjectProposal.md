@@ -16,13 +16,15 @@ Please create a repository for your final project, with the following contents:
 
 #### Please submit the final project proposal by 10:00pm on Sunday 8/9/2015. You will receive feedback on the proposal on Tuesday 8/11 and be asked to review and incorporate this feedback, and resubmit a revised proposal by 10:00pm on Tuesday 8/11.
 ---
-**Project Name**  
-**Team Name**  
-**Team Members**  
-**Link to Group's Repo**
+**Project Name**  AccessTube
+**Team Name**  ReCoders
+**Team Members**  Hoshiko Oki, Luke Lee, Ray Acevedo, Anna Li
+**Link to Group's Repo** https://github.com/lukesterlee/AccessTube
 
 ## The Problem 
-Describe the problem that your app will address. This does not need to be a novel idea or product, but your app should not directly recreate an existing product. If you are basing the app on an existing product, there should be some edge to your design or feature that solves a problem with that existing product.   
+Describe the problem that your app will address. This does not need to be a novel idea or product, but your app should not directly recreate an existing product. If you are basing the app on an existing product, there should be some edge to your design or feature that solves a problem with that existing product. 
+
+
 
 In this section, please frame the issue with supporting statistics about the need (market size, competitors, use cases). You should fully think through your user - who is your user? Why do they need this app? How are they using it?   
 
