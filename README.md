@@ -13,20 +13,10 @@ Luke Lee, Hoshiko Oki, Ray Acevedo, Anna Li
 
 [Proposal Submission](https://github.com/lukesterlee/AccessTube/blob/master/ProjectProposal.md)
 
-## TODOs
-
-research legal issues
 
 ## Links
 
 1. Trello : https://trello.com/b/YhLeSyiS/final-project
 
-## Researches
-
-1. Legal issue for downloading
-
-2. Google App Engine
-
-3. 
 
 
