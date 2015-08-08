@@ -12,3 +12,4 @@ blah blah introduction and objective/goals
 5. check Trello at least once every day
 6. keep up with your weekly commitment working hour
 7. record your working hour every day
+8. try to understand the project as a whole.
