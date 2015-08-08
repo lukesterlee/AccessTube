@@ -2,12 +2,6 @@
 
 ### The following is due Sun, Aug 9 at 10pm:  
 
-Please create a repository for your final project, with the following contents:  
-  *  README with your group members  
-  *  ProjectProposal.md (template below. Feel free to use the markdown from this file and fill in your responses.) 
-
-
----
 
 # Access Code 2.1 Final Project Proposal
 
@@ -41,6 +35,10 @@ Please provide a detailed description of the app here. Map out how the app solve
   *  Baseline features you plan to implement by Demo 1 (what + why).
   *  Bonus features you plan to implement if baseline features are completed in time (what + why).
   *  A wireframe of the app. 
+  *  
+  
+
+Yes. AccessTube is technology designed to let individuals watch legal online content whenever and wherever they like. Just like the broadcast DVR and the VCR before it, PlayLater is designed for personal use and convenience.
 
 ## Execution
 Please describe how you will build this app. Include: 
