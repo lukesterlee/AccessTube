@@ -1,12 +1,12 @@
-# AccessTube
 
-Coalition For Queens Access Code 2.1 Final Project!
+
+# Coalition For Queens Access Code 2.1 Final Project!
 
 ## Team Name
 
-ReCoders : We create new values from existing services such as YouTube and Netflix with coding.
+???
 
-## Team Member
+## Team Members
 
 Luke Lee, Hoshiko Oki, Ray Acevedo, Anna Li
 
@@ -16,7 +16,7 @@ Luke Lee, Hoshiko Oki, Ray Acevedo, Anna Li
 
 ## Product
 
-AccessTube : An app 
+??? 
 
 ## Links
 
