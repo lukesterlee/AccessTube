@@ -19,12 +19,12 @@
 ## The Problem 
 
 1. Inability to view streaming media while offline
-- users are unable to access streaming content on sites such as Netflix or Youtube when offline, or if the internet connection is too slow 
+  *  users are unable to access streaming content on sites such as Netflix or Youtube when offline, or if the internet connection is too slow 
 
 
 2. Data redundancy cost issues
-- repeat viewings of same content count toward users' data plan
-- repeat viewings increase mobile traffic for content provider
+  *  repeat viewings of same content count toward users' data plan
+  *  repeat viewings increase mobile traffic for content provider
 
 
 
@@ -33,16 +33,24 @@ In this section, please frame the issue with supporting statistics about the nee
 ## The Solution 
 Please provide a detailed description of the app here. Map out how the app solves the problem described in section I. You should also include:
   *  Baseline features you plan to implement by Demo 1 (what + why).
+  *  record, 
   *  Bonus features you plan to implement if baseline features are completed in time (what + why).
+  *  language support, interface color options, , basket(sort, filter, search interface)
+  
+
   *  A wireframe of the app. 
   *  
   
 
-Yes. AccessTube is technology designed to let individuals watch legal online content whenever and wherever they like. Just like the broadcast DVR and the VCR before it, PlayLater is designed for personal use and convenience.
+- record, not download
+- make sure users or other app can not access and take out content
+
+AccessTube is technology designed to let users watch legal streaming content whenever and wherever they like. Just like the broadcast DVR and the VCR before it, AccessTube is designed for personal use and convenience.
 
 ## Execution
 Please describe how you will build this app. Include: 
-  *  A detailed timeline for building the product, broken out by weekly sprints. Implement the training from the [Project Management workshop](https://github.com/accesscode-2-1/unit-3/blob/master/lessons/16_ProjectManagement.md) to plan your sprints and outline which features you want to build out over the next 4 weeks. Think about the user stories you would frame your sprints around. *Projects should be planned to complete the build by Demo 1 on September 1, 2015.*  
+  *  A detailed timeline for building the product, broken out by weekly sprints. Implement the training from the
+  *  to plan your sprints and outline which features you want to build out over the next 4 weeks. Think about the user stories you would frame your sprints around. *Projects should be planned to complete the build by Demo 1 on September 1, 2015.*  
   *  A breakdown of team member responsibilities. Team members should take ownership over a specific feature or aspect of the app.   
 
 
